@@ -1,0 +1,7 @@
+interface:
+  display_name: "ChatGPT Ghost Entry Repair"
+  short_description: "Repair stale macOS ChatGPT sidebar entries safely"
+  default_prompt: "Use $chatgpt-macos-ghost-entry-repair to diagnose and safely remove a ghost ChatGPT sidebar entry on macOS."
+
+policy:
+  allow_implicit_invocation: true
